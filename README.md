@@ -2,7 +2,7 @@
 
 
 
-# Yundi Zhang write
+# Yundi Zhang write codes
 # Import the random module to generate random numbers(write by Andre Juntao Hu)
 import random
 
