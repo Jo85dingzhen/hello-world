@@ -1,5 +1,6 @@
 # hello-world
-import random(Yundi Zhang write
+# Yundi Zhang write
+import random
 name = input("Enter your name: ")
 
 favorite_number = int(input(f"Hi {name}, what's your favorite number? "))
