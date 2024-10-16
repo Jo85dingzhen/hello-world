@@ -2,7 +2,7 @@
 
 
 
-# Yundi Zhang write
+（Yundi Zhang write）
 import random
 name = input("Enter your name: ")
 
